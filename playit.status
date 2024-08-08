@@ -1,7 +1,7 @@
 8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
 MSG: Failed to setup tunnel client
 Error: RequestError(TooManyRequests)
-[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723138741312 tunnel running, 1 tunnels registered
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723139091659 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -9,22 +9,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138756498 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139106789 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138759577 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138762649 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138765733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139109855 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -32,22 +22,17 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138774905 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139124976 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138777993 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139128044 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138781075 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138784131 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139131121 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -55,17 +40,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138799252 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139146232 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138802329 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138805418 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139149304 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -73,25 +53,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138820530 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139164425 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138823608 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138838722 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138841789 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139167493 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -99,17 +66,7 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138856895 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138859984 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138863057 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139182605 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -117,25 +74,17 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138878212 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139197710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138881279 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139200779 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138896400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138899464 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139203845 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -143,17 +92,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138914582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139218951 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138917680 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138920759 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139222019 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -161,17 +105,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138935881 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139237129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138938965 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138942029 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139240203 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -179,12 +118,7 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138957139 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138960207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139255314 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -192,17 +126,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138975317 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139270421 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138978380 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138981441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139273490 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -210,25 +139,12 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723138996535 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139288611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723138999643 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723139014765 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723139017833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139291674 tunnel running, 1 tunnels registered
 
 
 TUNNELS
@@ -236,12 +152,127 @@ who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723139032959 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139306802 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723139036024 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723139309867 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139324968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139340075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139343149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139358267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139361330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139376436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139391535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139394602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139409714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139412775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139427899 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139430983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139446074 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139461168 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139464229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723139479359 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+who-metric.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723139482433 tunnel running, 1 tunnels registered
 
 
 TUNNELS
